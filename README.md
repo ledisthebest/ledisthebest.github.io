@@ -1,2 +1,2 @@
 # ledisthebest.github.io
-my sit mirrors
+my site mirror
